@@ -1,10 +1,15 @@
 while True:
      print("Welcome My User !!")
      print("Math is not too Hard !!")
+     # Add Numbers
      print("Enter 'add' to add two numbers")
+     # Subtract Numbers
      print("Enter 'subtract' to subtract two numbers")
+     # Multiply Numbers
      print("Enter 'multiply' to multiply two numbers")
+     # Divide Numbers
      print("Enter 'divide' to divide two numbers")
+     # Quiting Program
      print("Enter 'quit' to end the program")
      user_input = input("write: ")
      if user_input == "quit":
